@@ -1,3 +1,5 @@
+![Wooden-Pipe-Organ: Portable crank street organ with wooden pipes, laser-cut SVG plans, warm wood tones](docs/images/social-preview.png)
+
 # Wooden Pipe Organ
 
 This utility helps determine the dimensions for creating the wooden pipes of a portable organ for a laser cutter. Today `index.js` calculates and prints each pipe's dimensions; generating the SVG files is the goal.
